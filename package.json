@@ -1,0 +1,22 @@
+{
+  "name": "owndiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimingz9380/OwnDiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimingz9380/OwnDiscordBot/issues"
+  },
+  "homepage": "https://github.com/jimingz9380/OwnDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
